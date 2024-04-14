@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÍûºüÿÿÿÿ8ıáØè1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÏÍ8ıáØè1
+†
+java:S4165"dRemove this useless assignment; "weigth" already holds the assigned value along all execution paths.(ßÏÕ­ùÿÿÿÿ8™ıáØè1
+†
+java:S4165!"dRemove this useless assignment; "weigth" already holds the assigned value along all execution paths.(ßÏÕ­ùÿÿÿÿ8™ıáØè1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚ç·Àùÿÿÿÿ8œıáØè1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ßÏÕ­ùÿÿÿÿ8 ıáØè1
+Q
+java:S1656!"/Remove or correct this useless self-assignment.(ßÏÕ­ùÿÿÿÿ8 ıáØè1

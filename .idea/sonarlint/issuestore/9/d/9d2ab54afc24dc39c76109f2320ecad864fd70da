@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œÚª©8ËÎíÂí1J$062e92b6-6811-4afc-a573-10dc8e53865c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²•Ó®8ÏÎíÂí1J$c314e661-75fd-47e1-8b51-089951201fa8
+“	java:S114'"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ú‡™8ĞÎíÂí1J$3b6af1a3-a8fb-461e-b850-8ec9045da863
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(„¢ı‘ÿÿÿÿÿ8ÁëîÂí1J$2fc8d3c6-c798-4e74-af5b-9d2e6ffecc69
+r	java:S106"+Replace this use of System.out by a logger.(ëå‘Õùÿÿÿÿ8êÎíÂí1J$7e0b8fab-a4c3-4d45-8711-90789cce39cc
+r	java:S106"+Replace this use of System.out by a logger.(ïö–¹ıÿÿÿÿ8ëÎíÂí1J$94af7b2d-4ab4-4001-8db4-7bc7d5a5e135
+m	java:S106"+Replace this use of System.out by a logger.(Å¶Û©8ìÎíÂí1J$cc2c2f66-1b10-4afd-9059-666b11683ecf
+r	java:S106 "+Replace this use of System.out by a logger.(ëƒ¡ÿùÿÿÿÿ8ìÎíÂí1J$c4968aed-b60a-431b-8e21-23f7ee58c189
+w
+java:S1128"4Remove this unused import 'OOP5.NestedInterfaces.B'.(ÀÈğŒ8ïÎíÂí1J$7afd0f90-e8e2-4c3f-a04a-5a8c12f5168e
+€
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8„ îÂí1J$663ddfd4-79ad-48fe-bdf6-33dcbc2121c9

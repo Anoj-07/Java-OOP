@@ -1,0 +1,25 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ ØÜ8‚€¸œì1J$0a8a7579-94f5-44e5-ba0a-e9bd08e8ea9b
+”	java:S101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïÖ§‹şÿÿÿÿ8‚€¸œì1J$54197927-0712-417d-b9c6-c46591e80e92
+	java:S101>"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î˜á˜8‚€¸œì1J$c24638a0-ac57-4eb7-85aa-caad7035882e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÂ§åüÿÿÿÿ8„€¸œì1J$bf003b0d-f58b-44e5-8c2d-ad8fc1e5bc47
+
+java:S1223%"LRename this method to prevent any misunderstanding or make it a constructor.(ù•½î8…€¸œì1J$53325d9c-1c7f-4d29-a035-0ade205f839f
+’	java:S116
+"PRename this field "Class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ğêÑ8‹€¸œì1J$3ece3b16-4ffe-4ab6-abaf-117c31ae5110
+|
+java:S5993"9Change the visibility of this constructor to "protected".(ÕüÙ8Œ€¸œì1J$48e76257-d38d-47f2-aaa7-ebfdb6ae4c3d
+~	java:S125"<This block of commented-out lines of code should be removed.(©õÕÜ8€¸œì1J$fc021142-b0b3-47c5-bb7c-a1a3b9003a8a
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŠäçúÿÿÿÿ8€¸œì1J$0bac8bc2-210e-4419-be52-a7df89a3efc0
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµüÿÿÿÿ8€¸œì1J$0cba32d7-4db6-470f-884c-182492f35b8b
+Ä
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù•½î8€¸œì1J$81cee2a3-eb27-4bad-8551-85d6e6d95cd8
+Ä
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù•½î8’€¸œì1J$8fa65c24-119b-42ee-8a43-6e89ccc64287
+€
+java:S1854K"8Remove this useless assignment to local variable "obj1".(…ƒŠøÿÿÿÿ8–€¸œì1J$43914519-1467-4985-b45d-58b50110d0ab
+m	java:S106C"+Replace this use of System.out by a logger.(ôÌ¿ò8™€¸œì1J$2bed56d9-8563-441d-b418-ebbebe3537fe
+r	java:S106D"+Replace this use of System.out by a logger.(Ñ®ê¹ÿÿÿÿÿ8š€¸œì1J$2473c34e-b8c8-4e72-a534-48be328869d7
+r	java:S106E"+Replace this use of System.out by a logger.(º…¾‹ıÿÿÿÿ8£è»œì1J$9f998885-8c15-47be-ba6d-1dce699fda28
+q
+java:S1481K")Remove this unused "obj1" local variable.(…ƒŠøÿÿÿÿ8š€¸œì1J$7e99db60-f0c8-4387-9dad-591482172123

@@ -1,0 +1,6 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼ÑŠ€8«âîšé1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®áƒ­8¬âîšé1
+W
+java:S1161":Add the "@Override" annotation above this method signature(¯å‰à8Þžº£é1
+L	java:S106"+Replace this use of System.out by a logger.(Ð§²˜ûÿÿÿÿ8ßžº£é1

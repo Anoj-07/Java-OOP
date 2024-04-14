@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áË£ïùÿÿÿÿ8¨œ™‡Ş1
+7
+java:S1220""Move this file to a named package.8©œ™‡Ş1
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(°î°‡şÿÿÿÿ8±œ™‡Ş1
+D
+java:S1481"(Remove this unused "obj" local variable.(è÷©D8²œ™‡Ş1
+h
+java:S5738"FDon't override this deprecated method, it has been marked for removal.(ÖÒ˜Ùùÿÿÿÿ8·œ™‡Ş1
+O
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8¸œ™‡Ş1
+G	java:S106"+Replace this use of System.out by a logger.(¶éø8¹œ™‡Ş1

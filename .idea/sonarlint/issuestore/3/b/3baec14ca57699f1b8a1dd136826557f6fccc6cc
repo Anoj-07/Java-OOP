@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8ÔŞ¹Äí1J$38c17e06-dea3-4714-820d-ed9dfc0cee84
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ•Ğ©üÿÿÿÿ8ÖŞ¹Äí1J$bc75a888-6dd4-467e-a07e-02c1fafddd37
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8×Ş¹Äí1J$3b0d1a79-db45-4622-a37a-1ded7f9177f5
+z
+java:S3518
+"7Make sure "b" can't be zero before doing this division.(ò„¢ó8ÚŞ¹Äí1J$d281e02d-c2f5-4e58-9cfb-33f736420eb2
+x
+java:S1854
+"5Remove this useless assignment to local variable "c".(ò„¢ó8ÜŞ¹Äí1J$16dd4079-91e5-4f20-8489-aa69f0f477b1
+i
+java:S1481
+"&Remove this unused "c" local variable.(ò„¢ó8áŞ¹Äí1J$9ba3705f-d550-4812-a340-ba684132b0e9
+m	java:S106"+Replace this use of System.out by a logger.(Êñ×è8âŞ¹Äí1J$43cc88ab-1490-4992-8e3c-22a9c422744f
+m	java:S106"+Replace this use of System.out by a logger.(ÖŠÏÇ8ãŞ¹Äí1J$dd96e0ca-becd-49a6-9e07-fac170f2559a

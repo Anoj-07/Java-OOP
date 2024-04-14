@@ -1,0 +1,17 @@
+
+i	java:S101+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¿ÉÔ8ùÀÆ¨é1
+-
+java:S1700"Rename field "a"(®š‹á8úÀÆ¨é1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÏÍ8úÀÆ¨é1
+i
+java:S1223,"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8üÀÆ¨é1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã¸ªç8„ÁÆ¨é1
+G	java:S106	"+Replace this use of System.out by a logger.(äÔ©ë8ˆÁÆ¨é1
+G	java:S106&"+Replace this use of System.out by a logger.(áåò®8‹ÁÆ¨é1
+W
+java:S1854-"5Remove this useless assignment to local variable "b".(ßòû§ûÿÿÿÿ8ŒÁÆ¨é1
+H
+java:S1481-"&Remove this unused "b" local variable.(ßòû§ûÿÿÿÿ8ÁÆ¨é1
+W
+java:S22091"5Change this instance-reference to a static reference.(ŞğÀ¼üÿÿÿÿ8ÁÆ¨é1

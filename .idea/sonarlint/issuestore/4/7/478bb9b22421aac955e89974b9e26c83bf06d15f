@@ -1,0 +1,16 @@
+
+w
+java:S3740M"/Provide the parametrized type for this generic.(©ô§‰üÿÿÿÿ8óÞˆ¾í1J$d1228f1f-62ad-4575-995e-62ce82f9ed96
+w
+java:S3740M"/Provide the parametrized type for this generic.(©ô§‰üÿÿÿÿ8õÞˆ¾í1J$4df7bf02-a6c0-4c7a-ab58-6b9e1cf91069
+§
+java:S1488$"_Immediately return this expression instead of assigning it to the temporary variable "removed".(ˆôÐ’þÿÿÿÿ8ùÞˆ¾í1J$ae7cf0dc-25f1-413d-af43-8c7044abc6db
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦žÊ«8üÞˆ¾í1J$17bd9600-d909-4e6a-a0f4-5699359df1fd
+Ÿ
+java:S3008"WRename this field "DEFAULT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºþ»öþÿÿÿÿ8™ßˆ¾í1J$026db9ec-c6c1-440b-9ce1-535ebd81ec45
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(É„â†ýÿÿÿÿ8®ßˆ¾í1J$684ba823-e96c-4f2e-8583-940af8c5b761
+}	java:S125="<This block of commented-out lines of code should be removed.(±±º-8¸ßˆ¾í1J$04c88f14-c0b6-4122-b145-82744fa34e8b
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(íü“Ïÿÿÿÿÿ8¸ßˆ¾í1J$76f70ec4-719a-493b-9b6e-3970a41b64ed
+~	java:S125H"<This block of commented-out lines of code should be removed.(ñÆ¿ü8¸ßˆ¾í1J$af8e694d-7837-42c0-83db-67e0580c8c3b
+r	java:S106T"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8»ßˆ¾í1J$05fdbff9-ba7f-430d-bb6b-001a972a71e5
