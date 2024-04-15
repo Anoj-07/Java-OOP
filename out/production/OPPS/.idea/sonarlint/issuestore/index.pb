@@ -69,5 +69,35 @@ L
 OOP5/NestedInterfaces/B.java,2\2\22c7da098c3ae532aa9bd87184ba9275c2042db5
 L
 OOP5/NestedInterfaces/C.java,8\f\8f756eb9ba9f6d020d132b06324ea9fe4bcfd63e
-I
-OOP6/CustomArrayList.java,0\2\02ee52dea09b1173e97ca3f170b2c81c3646e177
+S
+#OOP6/ObjectComparision/Student.java,6\4\64bc8fb81b8a53b6c1b2a93552253ebfc12e6385
+T
+$OOP6/lambdaExprerssion/lambdaEX.java,9\d\9d2ab54afc24dc39c76109f2320ecad864fd70da
+P
+ OOP6/ExceptionHandling/main.java,3\b\3baec14ca57699f1b8a1dd136826557f6fccc6cc
+a
+1OOP6/customArraylist/CustomGernericArrayList.java,f\c\fcbee6683bdf6f392d911c67d1d4580a49a65811
+Y
+)OOP6/customArraylist/CustomArrayList.java,7\c\7c22b2a83a5214a86c1e2b50109a17d6d435795f
+R
+"OOP6/Generic/GenericInterface.java,c\5\c5b6a49cf84b57b987a57d171ce4ecb59742e245
+M
+OOP6/Generic/wildcCardEx.java,9\0\90439bdea44fe32f1609af605bb7fdab94d866af
+Q
+!OOP6/ExceptionHandling/main1.java,7\3\73353b422caa2608fbb4d9113df5337486f7f28b
+[
++OOP6/ExceptionHandling/CustomException.java,4\1\4134cd8e4fcc99396648ba2edcfc6a68df70828c
+G
+OOP6/ObjectCloning.java,6\6\6678d74b2cc3c2cb661b8db45cd326b56552266c
+Q
+!OOP1and2/staticExample/Human.java,3\9\396909b308591c8d59ba05ffec7802bcdca71ed4
+P
+ OOP1and2/staticExample/Main.java,2\2\223b285591ec634244bbaff44dea7af140801ebd
+A
+OOP6/objMain.java,4\b\4b10782f0857c04537194ed7d8b9dbf5f6ec2f10
+Y
+)OOP1and2/StaticVarirables/InnerClass.java,3\7\3777d9eba626bc4b95621c4bf89459d844f94f08
+V
+&OOP1and2/singletonClass/singleton.java,5\c\5c475e55e99ecc3ec6bf8f71530c7d9b88fb2337
+Q
+!OOP1and2/singletonClass/Main.java,2\5\25bdd8436811505d673adaebb8c39f8cd26cf1da

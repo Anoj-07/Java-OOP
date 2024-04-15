@@ -1,0 +1,14 @@
+
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óä§¤8ıóÏóí1J$e762a6a7-d88f-4b3a-81d4-941d05522ff9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ•Ğ©üÿÿÿÿ8ÿóÏóí1J$4b8fbfa4-048e-4f0f-9690-55b0c2e86230
+}
+java:S1854"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8ŠôÏóí1J$0e437245-b723-402c-bd4b-bd3fe214cdee
+n
+java:S1481"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8ŒôÏóí1J$e5ac6558-6d1a-43c6-bffa-0e004bc22898
+i
+java:S1481"&Remove this unused "b" local variable.(°ò‹8ŒôÏóí1J$321d21c8-a4eb-4d45-a180-4880174e97ae
+‡
+java:S2147"DCombine this catch with the one at line 21, which has the same body.(”ı¾8ôÏóí1J$5358b4d6-9c69-4449-9b0f-912f927a09d3
+r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ôÏóí1J$0f609e63-c358-4769-8399-c1b6b9f7b07a
+r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ôÏóí1J$97d66c08-9c39-49a6-839b-4f8cd498f591
+r	java:S106"+Replace this use of System.out by a logger.(º…ûüÿÿÿÿ8ôÏóí1J$5ac2873d-2108-4a99-a6f0-76fb585825f8

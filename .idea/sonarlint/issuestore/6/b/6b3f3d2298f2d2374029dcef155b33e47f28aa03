@@ -1,0 +1,16 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô÷éòÿÿÿÿÿ8éÿ‰‘î1J$9dccc412-d023-4059-b5b8-efa1c5afde2a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûö¢Üüÿÿÿÿ8ìÿ‰‘î1J$ac6df225-e5af-407b-ad3d-ad248a16c300
+­
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘Õ÷ùÿÿÿÿ8şÿ‰‘î1J$dfa8d609-4f71-4da9-9142-21b53898d573
+
+java:S1854"9Remove this useless assignment to local variable "list1".(ãòßòúÿÿÿÿ8ƒ€Š‘î1J$5f08d665-c362-4c2f-b46e-ff94232e75d9
+€
+java:S1854
+"8Remove this useless assignment to local variable "list".(¤Êí…ıÿÿÿÿ8ƒ€Š‘î1J$be85d34e-704c-423e-af43-17e1130faaef
+q
+java:S1481
+")Remove this unused "list" local variable.(¤Êí…ıÿÿÿÿ8‰€Š‘î1J$2d027eb4-d32c-49c2-969d-0eadb9589239
+r
+java:S1481"*Remove this unused "list1" local variable.(ãòßòúÿÿÿÿ8‹€Š‘î1J$c9535d19-fce2-4750-8236-1e5f716a181b
+r	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ8‘€Š‘î1J$abbe76d5-7733-4c99-9409-cf3ebed3c465

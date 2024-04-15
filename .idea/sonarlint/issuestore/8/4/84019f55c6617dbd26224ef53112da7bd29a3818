@@ -1,9 +1,10 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ҐнчДшяяяя8пЬСЉа1
-7
-java:S1220""Move this file to a named package.8пЬСЉа1
-L	java:S106"+Replace this use of System.out by a logger.(љЅ¦‰ьяяяя8ъЬСЉа1
-L	java:S106"+Replace this use of System.out by a logger.(љЅ¦‰ьяяяя8ыЬСЉа1
-X	java:S125	"<This block of commented-out lines of code should be removed.(иъ№…8ыЬСЉа1
->
-java:S1170"!Make this final field static too.(Мй„Г8ьЬСЉа1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ҐнчДшяяяя8пЬСЉа1J$f2123fe8-9acd-4d0a-8258-b3b99860d773
+]
+java:S1220""Move this file to a named package.8пЬСЉа1J$738a9dfa-6667-4cd5-ac0d-6817723788f4
+r	java:S106"+Replace this use of System.out by a logger.(љЅ¦‰ьяяяя8ъЬСЉа1J$129fca30-9770-4bba-8a99-09576c678123
+r	java:S106"+Replace this use of System.out by a logger.(љЅ¦‰ьяяяя8ыЬСЉа1J$7dd21288-90d6-4247-b57c-7270e4062c05
+~	java:S125
+"<This block of commented-out lines of code should be removed.(иъ№…8ыЬСЉа1J$3750d179-c138-4545-8a01-75c7d4e7526f
+d
+java:S1170"!Make this final field static too.(Мй„Г8ьЬСЉа1J$6698ecc4-6f37-470d-a414-4c3988344a78

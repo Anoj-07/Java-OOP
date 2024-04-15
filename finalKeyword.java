@@ -1,4 +1,4 @@
-public class finalKeyword {
+public  class finalKeyword {
     public static void main(String[] args) {
       final A anoj = new A("anoj");
         System.out.println(anoj.name);
@@ -6,12 +6,15 @@ public class finalKeyword {
         anoj.name ="Rawal";
         System.out.println(anoj.name);
 
+
 //        anoj = new A("ram");
+
+        /*using final keyword we can't override method and constructor or data member*/
 
 
     }
 }
-class A{
+final class A{
     final int num = 12;
     String name;
 

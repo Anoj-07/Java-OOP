@@ -1,0 +1,12 @@
+
+Ÿ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "diff".(î‘ˆÙ8‘­˜¿í1J$0a1080fc-5a09-4b14-af76-ed7378d89a21
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¿ÉÔ8’­˜¿í1J$426cd18a-3be7-4a18-b1a2-30f9816c7876
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÆúŞ8”­˜¿í1J$b22f19de-2dad-432f-8084-38d50e03e433
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8•­˜¿í1J$13ded3b6-5b98-4c6e-aef7-bc7fd8e12d70
+¡
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8­˜¿í1J$58db45a6-ecd0-4bdf-8b27-7cbecd270d68
+r	java:S106"+Replace this use of System.out by a logger.(ƒÿºøÿÿÿÿ8¤­˜¿í1J$b4bdac2a-b1aa-4893-8253-dca756739e4d
+l	java:S106 "+Replace this use of System.out by a logger.(˜‚ìi8¥­˜¿í1J$6f8ed5a5-eb8c-43fa-813c-5c5393fdba75
+m	java:S106!"+Replace this use of System.out by a logger.(÷ò‘È8É™¿í1J$a6f7b9bb-14f7-43e8-82dd-0e52d982041b

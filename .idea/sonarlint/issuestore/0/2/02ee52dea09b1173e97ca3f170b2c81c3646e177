@@ -1,14 +1,0 @@
-
-¢
-java:S1488&"_Immediately return this expression instead of assigning it to the temporary variable "removed".(ÍãÇÛ8Ç÷–¼í1J$806c81a1-7c70-4d34-8121-759eb8c26467
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦žÊ«8Ê÷–¼í1J$824722d1-77f7-45cd-a0d2-372504ca0d49
-š
-java:S3008	"WRename this field "DEFAULT_SiZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ôïþ8Ö÷–¼í1J$2395c938-b322-42d5-980a-eb365e76f93c
-¡
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(É„â†ýÿÿÿÿ8Ü÷–¼í1J$21c3171e-a8d2-4ad6-9b01-068e4bf69788
-}	java:S125?"<This block of commented-out lines of code should be removed.(±±º-8á÷–¼í1J$f963318a-36e1-4c09-a4b0-67634a432b72
-ƒ	java:S125B"<This block of commented-out lines of code should be removed.(íü“Ïÿÿÿÿÿ8á÷–¼í1J$4bb3c0e3-8433-4078-8af3-514cae1e82c7
-~	java:S125K"<This block of commented-out lines of code should be removed.(º¨†Ó8ä÷–¼í1J$aabd366b-3fbb-459e-ba7f-d7f9c88582e7
-r	java:S106R"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8æ÷–¼í1J$bfd4b358-b795-45de-a318-6794eb51ed6f
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ŠÙ—¼í1J$347a7e01-4b37-4560-bbdd-90fa36a8154a
