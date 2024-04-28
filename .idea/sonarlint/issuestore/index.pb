@@ -101,18 +101,10 @@ V
 &OOP1and2/singletonClass/singleton.java,5\c\5c475e55e99ecc3ec6bf8f71530c7d9b88fb2337
 Q
 !OOP1and2/singletonClass/Main.java,2\5\25bdd8436811505d673adaebb8c39f8cd26cf1da
->
-OOP7/main.java,a\b\abcef82dda35ef75a3d0ea57d19f25f7188b4e8f
-G
-OOP7/listInterface.java,8\6\868b14e3c0748b8b81848fdbe9ecaa9096b68694
 S
 #OOP7/Collections/listInterface.java,6\b\6b3f3d2298f2d2374029dcef155b33e47f28aa03
 L
 OOP7/Collections/vector.java,3\7\3751bf5dd0989eca83f7f2bf0d4c2f7299dab841
-Q
-!OOP7/Collections/Enums/enums.java,4\f\4f62f1d452a5b607bdbeec539da5bd06763c49db
-E
-OOP7/Enums/enums.java,e\5\e5ad31234c4ba781fbddfe32676d44426311dd10
 N
 OOP7/Enums/EnumsInterface.java,b\b\bb7c9415af7191d02cdd5fb4a3f14c4ca6acfd6a
 H
